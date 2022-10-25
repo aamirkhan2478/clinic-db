@@ -11,11 +11,10 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **Aamir Khan**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/aamir-kh)
 
 👤 **Author2**
 
@@ -27,7 +26,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/aamirkhan2478/clinic-db/issues).
 
 ## Show your support
 
