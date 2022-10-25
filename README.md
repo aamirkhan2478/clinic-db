@@ -11,17 +11,16 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **Aamir Khan**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aamir-kh/)
 
-👤 **Author2**
+👤 **Christian Iradukunda Byiringiro**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Christianib003](https://github.com/Christianib003)
+- LinkedIn: [Christian Iradukunda Byiringiro](https://www.linkedin.com/in/christian-iradukunda/)
+
 
 ## 🤝 Contributing
 
