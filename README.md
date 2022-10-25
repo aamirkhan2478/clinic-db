@@ -13,14 +13,6 @@
 
 👤 **Aamir Khan**
 
-- GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/aamir-kh)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
