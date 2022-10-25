@@ -18,7 +18,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/aamirkhan2478/clinic-db/issues).
 
 ## Show your support
 
