@@ -12,13 +12,6 @@
 ## Authors
 
 👤 **Aamir Khan**
-- GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aamir-kh/)
-
-👤 **Christian Iradukunda Byiringiro**
-
-- GitHub: [@Christianib003](https://github.com/Christianib003)
-- LinkedIn: [Christian Iradukunda Byiringiro](https://www.linkedin.com/in/christian-iradukunda/)
 
 ## 🤝 Contributing
 
